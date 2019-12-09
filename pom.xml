@@ -45,7 +45,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
     <!-- Compilation -->
-    <airlift.version>0.7</airlift.version>
+    <airlift.version>0.9</airlift.version>
     <!-- ALPN library targeted to Java 7 -->
     <alpn.jdk7.version>7.1.2.v20141202</alpn.jdk7.version>
     <android.version>4.1.1.4</android.version>
